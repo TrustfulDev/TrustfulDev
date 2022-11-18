@@ -1,20 +1,18 @@
-# Hello! I am Steven - TrustfulDev
+[![Header](https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/banner.png "Header")](https://github.com/TrustfulDev/TrustfulDev/blob/master/banner.png)
 
-## I'm a Full-time Student
-- 🎓 I'm currently studying Software Engineering at SJSU [expected 2024]
-- 💻 Constantly honing HTML, CSS, JS, and React skills
-- 🤝 Open to any form of connection and collaboration
-- ⏱ 2023 Goals: Find an internship
-- 🎮 Fun Fact: I've played almost every genre of video games
+**`Software Engineer`** **`Front-End Developer`**
+<p>I'm currently pursuing a Bachelor of Science in Software Engineering at San Jose State University. My expected graduation date will be May 2024. Feel free to connect with me on <a href="https://www.linkedin.com/in/vu-steven/">LinkedIn</a> or send me an email at sssstevenvu@gmail.com. GitHub contains most of my work, but you can also check out my portfolio page at https://trustfuldev.github.io/stevenvu/. </p>
 
-### Personal Portfolio Page is up! https://trustfuldev.github.io/stevenvu/
+<hr />
 
-<br/>
+<h3>Languages & Tools</h3>
+<img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-html-5-96.png">
+<img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-css3-96.png">
+<img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-javascript-96.png">
+<img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-react-100.png">
+<img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-c++-96.png">
+<img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-java-96.png">
+<img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-python-96.png">
+<img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-git-96.png">
 
-### Languages and Tools:
-<img align="left" alt="HTML5" width="28px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img align="left" alt="CSS3" width="28px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" alt="JS" width="28px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img align="left" alt="React" width="28px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
-<img align="left" alt="Visual Studio Code" width="28px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img align="left" alt="Git" width="28px" src="https://img.icons8.com/color/48/000000/git.png"/>
+<!-- More to come in the future -->
