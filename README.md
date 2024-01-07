@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/banner.png "Header")](https://github.com/TrustfulDev/TrustfulDev/blob/master/banner.png)
 
 **`Software Engineer`** **`Front-End Developer`**
-<p>I'm currently pursuing a Bachelor of Science in Software Engineering at San Jose State University. My expected graduation date will be May 2024. Feel free to connect with me on <a href="https://www.linkedin.com/in/vu-steven/">LinkedIn</a> or send me an email at sssstevenvu@gmail.com. GitHub contains most of my work, but you can also check out my portfolio page at [https://trustfuldev.github.io/stevenvu/](https://stevenvu.vercel.app/). </p>
+<p>I'm currently pursuing a Bachelor of Science in Software Engineering at San Jose State University. My expected graduation date will be May 2024. Feel free to connect with me on <a href="https://www.linkedin.com/in/vu-steven/">LinkedIn</a> or send me an email at sssstevenvu@gmail.com. GitHub contains most of my work, but you can also check out my portfolio page at https://stevenvu.vercel.app/. </p>
 
 <hr />
 
