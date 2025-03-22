@@ -1,7 +1,28 @@
 [![Header](https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/2024banner.png "Header")](https://github.com/TrustfulDev/TrustfulDev/blob/master/2024banner.png)
 
-**`Software Engineer`** **`Web Developer`** **`Front-End Developer`** **`Back-End Developer`**
-<p>I'm currently pursuing a Bachelor of Science in Software Engineering at San Jose State University. My expected graduation date will be May 2024. Feel free to connect with me on <a href="https://www.linkedin.com/in/vu-steven/">LinkedIn</a> or send me an email at sssstevenvu@gmail.com. GitHub contains most of my work, but you can also check out my portfolio page at https://stevenvu.org/.</p>
+**`Software Engineer`** **`Web Developer`** **`Full-Stack Developer`** **`Game Developer`** **`Unreal Engine C++`** **`Unity C#`**
+
+-   B.S. in Software Engineering from San Jose State University
+-   Heart and soul in frontend engineering (UI)
+-   Game Developer in my free time
+-   Web Developer by profession
+-   PC Building Enthusiast
+-   Typing speed: ~120 WPM
+
+<hr />
+
+<p>Most of my personal work is on GitHub, though many projects are in private repositories due to team collaborations. You can explore more of my work on my portfolio or Itch.io page.</p>
+
+<p>
+    <strong>📌 Find me here:</strong><br/>
+    <a href="https://stevenvu.org/">Portfolio</a>
+    <span> | </span>
+    <a href="https://www.linkedin.com/in/vu-steven/">LinkedIn</a>
+    <span> | </span>
+    <a href="https://trustfuldev.itch.io/">Itch.io</a>
+    <span> | </span>
+    <a href="mailto:sssstevenvu@gmail.com">sssstevenvu@gmail.com</a>
+</p>
 
 <hr />
 
@@ -16,6 +37,8 @@
     <img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-tailwind-css-96.png" alt="Tailwind CSS">
     <img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-c++-96.png" alt="C++">
     <img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-git-96.png" alt="Git">
+    <img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-unity-50.png" alt="Unity">
+        <img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-unreal-engine-50.png" alt="Unreal Engine">
 </div>
 
 <!-- More to come in the future -->
