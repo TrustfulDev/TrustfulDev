@@ -38,12 +38,12 @@
     <img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-c++-96.png" alt="C++">
     <img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-git-96.png" alt="Git">
     <picture>
-        <source srcset="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-unreal-engine-white-50.png" media="(prefers-color-scheme: light)">
-        <img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-unreal-engine-50.png" alt="Unreal Engine">
+        <source srcset="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-unreal-engine-50.png" media="(prefers-color-scheme: light)">
+        <img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-unreal-engine-white-50.png" alt="Unreal Engine">
     </picture>
     <picture>
-        <source srcset="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-unity-white-50.png" media="(prefers-color-scheme: light)">
-        <img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-unity-50.png" alt="Unity">
+        <source srcset="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-unity-50.png" media="(prefers-color-scheme: light)">
+        <img width="48px" src="https://raw.githubusercontent.com/TrustfulDev/TrustfulDev/master/assets/icons8-unity-white-50.png" alt="Unity">
     </picture>
 </div>
 
